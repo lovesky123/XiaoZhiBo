@@ -1,0 +1,309 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.qcloud.xiaozhibo"
+4    android:versionCode="1"
+5    android:versionName="v1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:7:5-76
+13-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:8:5-75
+14-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:8:22-72
+15    <uses-permission android:name="android.permission.CALL_PHONE" />
+15-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:9:5-69
+15-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:9:22-66
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:10:5-81
+16-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:11:5-79
+17-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:11:22-77
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:12:5-71
+18-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:12:22-68
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:13:5-65
+19-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:13:22-62
+20    <uses-permission android:name="android.permission.READ_CONTACTS" />
+20-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:14:5-72
+20-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:14:22-69
+21
+22    <uses-feature android:name="android.hardware.camera" />
+22-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:15:5-60
+22-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:15:19-57
+23    <uses-feature android:name="android.hardware.camera.autofocus" />
+23-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:16:5-70
+23-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:16:19-67
+24
+25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+25-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:18:5-81
+25-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:18:22-78
+26    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+26-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:19:5-79
+26-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:19:22-76
+27    <!-- IMSDK 权限 -->
+28    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+28-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:21:5-79
+28-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:21:22-76
+29    <uses-permission android:name="android.permission.GET_TASKS" />
+29-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:22:5-68
+29-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:22:22-65
+30    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+30-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:23:5-80
+30-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:23:22-77
+31    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+31-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:24:5-81
+31-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:24:22-78
+32    <uses-permission android:name="android.permission.VIBRATE" />
+32-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:25:5-66
+32-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:25:22-63
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:26:5-68
+33-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:26:22-65
+34    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+34-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:27:5-78
+34-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:27:22-75
+35    <!-- <uses-permission android:name="android.permission.SET_DEBUG_APP" /> -->
+36    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+36-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:29:5-71
+36-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:29:22-68
+37    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+37-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:30:5-74
+37-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:30:22-71
+38    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+38-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:31:5-74
+38-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:31:22-71
+39    <uses-permission android:name="android.permission.BLUETOOTH" />
+39-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:32:5-68
+39-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:32:22-65
+40
+41    <application
+41-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:33:5-142:19
+42        android:name="com.tencent.qcloud.xiaozhibo.TCApplication"
+42-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:34:9-38
+43        android:allowBackup="true"
+43-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:35:9-35
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f9a7d438e88041c1bf0d7f0a73a5c22b\core-1.0.0\AndroidManifest.xml:22:18-86
+45        android:debuggable="true"
+46        android:icon="@mipmap/ic_launcher"
+46-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:36:9-43
+47        android:label="@string/app_name"
+47-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:37:9-41
+48        android:largeHeap="true"
+48-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:39:9-33
+49        android:supportsRtl="true"
+49-->[com.tencent.liteav:LiteAVSDK_Professional:7.2.8927] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bd224b79d6109c34abdad816a4f5d945\jetified-LiteAVSDK_Professional-7.2.8927\AndroidManifest.xml:31:9-35
+50        android:testOnly="true"
+51        android:theme="@style/AppTheme"
+51-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:38:9-40
+52        android:usesCleartextTraffic="true" >
+52-->[com.tencent.liteav:LiteAVSDK_Professional:7.2.8927] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bd224b79d6109c34abdad816a4f5d945\jetified-LiteAVSDK_Professional-7.2.8927\AndroidManifest.xml:32:9-44
+53        <activity
+53-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:40:9-50:20
+54            android:name="com.tencent.qcloud.xiaozhibo.main.splash.TCSplashActivity"
+54-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:41:13-57
+55            android:launchMode="singleTop"
+55-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:44:13-43
+56            android:screenOrientation="portrait"
+56-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:42:13-49
+57            android:theme="@style/SplashTheme" >
+57-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:43:13-47
+58            <intent-filter>
+58-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:45:13-49:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:46:17-69
+59-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:46:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:48:17-77
+61-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:48:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:53:9-56:49
+65            android:name="com.tencent.qcloud.xiaozhibo.login.TCLoginActivity"
+65-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:54:13-50
+66            android:screenOrientation="portrait"
+66-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:55:13-49
+67            android:theme="@style/LoginTheme" />
+67-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:56:13-46
+68        <activity
+68-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:57:9-60:52
+69            android:name="com.tencent.qcloud.xiaozhibo.login.TCRegisterActivity"
+69-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:58:13-53
+70            android:screenOrientation="portrait"
+70-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:59:13-49
+71            android:theme="@style/RegisterTheme" />
+71-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:60:13-49
+72        <activity
+72-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:61:9-64:46
+73            android:name="com.tencent.qcloud.xiaozhibo.main.TCMainActivity"
+73-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:62:13-48
+74            android:launchMode="singleTask"
+74-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:64:13-44
+75            android:screenOrientation="portrait" />
+75-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:63:13-49
+76        <activity
+76-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:65:9-67:52
+77            android:name="com.tencent.qcloud.xiaozhibo.anchor.prepare.TCAnchorPrepareActivity"
+77-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:66:13-67
+78            android:screenOrientation="portrait" />
+78-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:67:13-49
+79        <activity
+79-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:68:9-72:59
+80            android:name="com.tencent.qcloud.xiaozhibo.audience.TCAudienceActivity"
+80-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:69:13-56
+81            android:screenOrientation="portrait"
+81-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:70:13-49
+82            android:theme="@style/PlayerTheme"
+82-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:71:13-47
+83            android:windowSoftInputMode="adjustNothing" />
+83-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:72:13-56
+84        <activity
+84-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:73:9-77:59
+85            android:name="com.tencent.qcloud.xiaozhibo.playback.TCPlaybackActivity"
+85-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:74:13-56
+86            android:screenOrientation="portrait"
+86-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:75:13-49
+87            android:theme="@style/PlayerTheme"
+87-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:76:13-47
+88            android:windowSoftInputMode="adjustNothing" />
+88-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:77:13-56
+89        <activity
+89-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:78:9-81:59
+90            android:name="com.tencent.qcloud.xiaozhibo.anchor.TCCameraAnchorActivity"
+90-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:79:13-58
+91            android:screenOrientation="portrait"
+91-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:80:13-49
+92            android:windowSoftInputMode="adjustNothing" />
+92-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:81:13-56
+93        <activity
+93-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:82:9-92:20
+94            android:name="com.tencent.qcloud.xiaozhibo.anchor.screen.TCScreenAnchorActivity"
+94-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:83:13-65
+95            android:configChanges="orientation|keyboardHidden|screenSize"
+95-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:85:13-74
+96            android:launchMode="singleTask"
+96-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:88:13-44
+97            android:screenOrientation="portrait"
+97-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:86:13-49
+98            android:theme="@style/RecordActivityTheme"
+98-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:84:13-55
+99            android:windowSoftInputMode="adjustNothing" >
+99-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:87:13-56
+100            <intent-filter>
+100-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:89:13-91:29
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:90:17-76
+101-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:90:27-73
+102            </intent-filter>
+103        </activity>
+104
+105        <service
+105-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:93:9-98:19
+106            android:name="com.tencent.qcloud.xiaozhibo.anchor.screen.TCScreenRecordService"
+106-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:94:13-64
+107            android:enabled="true"
+107-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:95:13-35
+108            android:exported="false" >
+108-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:96:13-37
+109        </service>
+110
+111        <activity
+111-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:99:9-101:52
+112            android:name="com.tencent.qcloud.xiaozhibo.profile.TCEditUseInfoActivity"
+112-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:100:13-58
+113            android:screenOrientation="portrait" />
+113-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:101:13-49
+114        <activity
+114-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:103:9-157
+115            android:name="com.tencent.rtmp.video.TXScreenCapture$TXScreenCaptureAssistantActivity"
+115-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:103:19-105
+116            android:theme="@android:style/Theme.Translucent" />
+116-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:103:106-154
+117
+118        <provider
+118-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:106:9-114:20
+119            android:name="android.support.v4.content.FileProvider"
+119-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:107:13-67
+120            android:authorities="com.tencent.qcloud.xiaozhibo.fileprovider"
+120-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:108:13-76
+121            android:exported="false"
+121-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:110:13-37
+122            android:grantUriPermissions="true" >
+122-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:109:13-47
+123            <meta-data
+123-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:111:13-113:53
+124                android:name="android.support.FILE_PROVIDER_PATHS"
+124-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:112:17-67
+125                android:resource="@xml/filepaths" />
+125-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:113:17-50
+126        </provider>
+127
+128        <uses-library
+128-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:116:9-118:40
+129            android:name="com.google.android.maps"
+129-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:117:13-51
+130            android:required="false" />
+130-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:118:13-37
+131        <uses-library android:name="android.test.runner" />
+131-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:119:9-60
+131-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:119:23-57
+132
+133        <service
+133-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:122:9-124:42
+134            android:name="com.tencent.imsdk.session.remote.SessionService"
+134-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:123:13-75
+135            android:process=":network" />
+135-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:124:13-39
+136        <service
+136-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:125:9-127:42
+137            android:name="com.tencent.imsdk.session.remote.AssistService"
+137-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:126:13-74
+138            android:process=":network" />
+138-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:127:13-39
+139        <service
+139-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:128:9-131:42
+140            android:name="com.tencent.imsdk.session.remote.KeepAliveJobService"
+140-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:129:13-80
+141            android:permission="android.permission.BIND_JOB_SERVICE"
+141-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:130:13-69
+142            android:process=":network" />
+142-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:131:13-39
+143
+144        <receiver android:name="com.tencent.imsdk.session.SessionBroadcastReceiver" >
+144-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:133:9-140:20
+144-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:133:19-84
+145            <intent-filter>
+145-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:134:13-139:29
+146                <action android:name="com.tencent.imsdk.session.boot" />
+146-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:135:17-73
+146-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:135:25-70
+147                <action android:name="android.intent.action.BOOT_COMPLETED" />
+147-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:136:17-79
+147-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:136:25-76
+148                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+148-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:137:17-79
+148-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:137:25-76
+149                <action android:name="com.tencent.qcloud.qal.TASK_REMOVED" />
+149-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:138:17-78
+149-->E:\TXLive\XiaoZhiBo\app\src\main\AndroidManifest.xml:138:25-75
+150            </intent-filter>
+151        </receiver>
+152    </application>
+153
+154</manifest>

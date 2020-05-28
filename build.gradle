@@ -1,0 +1,38 @@
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.6.0'
+    }
+}
+
+allprojects {
+    repositories {
+        flatDir {
+            dirs 'src/main/jniLibs'
+        }
+        jcenter()
+        google()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    compileSdkVersion = 29
+    buildToolsVersion = "29"
+    supportSdkVersion = "29.0.2"
+    minSdkVersion = 16
+    targetSdkVersion = 29
+    versionCode = 1
+    versionName = "v1.0"
+    proguard = true
+    rootPrj = "$projectDir/.."
+    ndkAbi = 'armeabi-v7a'
+    noffmpeg = false
+    noijkplay = false
+}

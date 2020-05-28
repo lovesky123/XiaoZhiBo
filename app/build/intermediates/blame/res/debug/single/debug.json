@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_click.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\home_click.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_audio_ctrl.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\audio_ctrl.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_selected_hover_image.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\selected_hover_image.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_background.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\message_background.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_video_material_download_pressed.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_pressed.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_flash.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_flash.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_video_item.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\listview_video_item.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_1.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_1.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_switch_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_switch_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anchor_prepare.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_anchor_prepare.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_lock_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\lock_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_line_controller.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\view_line_controller.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flash_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\flash_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_2.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_2.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_again.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\again.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_10.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_10.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_beautiful_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_playback.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\playback.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beauty_seekbar_progress.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\beauty_seekbar_progress.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_greens.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\greens.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_live_pusher_info.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\layout_live_pusher_info.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_back_gray.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_gray.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_12.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_12.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_lock_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\lock_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_return_home_page.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\button_return_home_page.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_grid_item_video.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\camera_grid_item_video.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_btn_send_message.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-v21\\btn_send_message.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_video_material_download_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_video_material_download_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_filter_selected.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_selected.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_lbs_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_lbs_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_beauty_png.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\icon_beauty_png.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_barrage_slider_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\barrage_slider_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_share_png.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_share_png.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_barrage.9.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\barrage.9.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_linkmic_off_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\linkmic_off_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_bg.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_publish_detail.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\dialog_publish_detail.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_position.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\position.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_log_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_log_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_user.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\tab_user.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_3.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_3.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_info.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user_avatar.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\item_user_avatar.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_click.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\play_click.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera_anchor.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_camera_anchor.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\xml_filepaths.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_videolist.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\fragment_videolist.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_14.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_14.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart1.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart1.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_record_progress.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\record_progress.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawable_face_green.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\drawable_face_green.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_msg_item.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\listview_msg_item.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_periscope.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\layout_periscope.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_round_button.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\shape_round_button.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_live.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\live.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_open.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\switch_open.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_layout.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_4.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_4.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pause_publish.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\pause_publish.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cloud_logo.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\cloud_logo.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera_audio.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_audio.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_liked.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_13.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_13.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slice_out_right.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\anim\\anim_slice_out_right.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawable_face_filter.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\drawable_face_filter.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_visitors.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\visitors.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_like.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_like.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawable_face_beauty.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\drawable_face_beauty.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_beauty_seekbar_icon.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\beauty_seekbar_icon.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\button.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera_download_bg.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_download_bg.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_background.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_title.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_5.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_5.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_big.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\music_big.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_switch_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_switch_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_linkmic_on_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\linkmic_on_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\user_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_view_line_edit_text.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\layout_view_line_edit_text.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_start.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\play_start.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_liveshow_item_dot.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\liveshow_item_dot.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart6.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart6.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_camera_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_pause.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\play_pause.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back_gray.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_back_gray.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_publish_background.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\publish_background.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart0.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart0.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_right.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\image.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawable_face_move.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\drawable_face_move.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_selet_sex.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\view_selet_sex.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vod_play.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_vod_play.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_progress_drawable.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_music_chose.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\layout_music_chose.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_green_layout.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\green_layout.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_barrage_slider_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\barrage_slider_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_screen_anchor.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_screen_anchor.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_video.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\tab_video.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_like_png.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_like_png.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_8.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_8.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_beautiful.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\beautiful.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_message.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_message.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_move_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\move_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_button.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\tab_button.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_button_pressed.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\button_pressed.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart4.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart4.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_input_text.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\dialog_input_text.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list_empty.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\list_empty.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_primary.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flash_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\flash_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_seekbar_progress.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\play_seekbar_progress.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button_2.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\round_button_2.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_video_material_download.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\ic_video_material_download.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_9.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_9.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_recording_background_vertical.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_vertical.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_record.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\start_record.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_user_info.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_edit_user_info.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart5.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart5.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_close.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\switch_close.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_greens_no.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_no.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_seekbar_icon.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\play_seekbar_icon.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_greens_selected.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_selected.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_6.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_6.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_line.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\seekbar_line.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_move.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\move.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_music.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\item_music.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button_3.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\round_button_3.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_filter_layout.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\filter_layout.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_audience.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\activity_audience.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bg.9.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\progress_bg.9.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_recording_background_private_horizontal.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_private_horizontal.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cursor_color.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\cursor_color.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pusher_info_background.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\pusher_info_background.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_message_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_message_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slice_in_right.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\anim\\anim_slice_in_right.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_switch_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_switch_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_like.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\like.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_seekbar_line.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_line.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_video_grid_bg.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\camera_video_grid_bg.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart7.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart7.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_share.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_share.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_return.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_return.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_beauty.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_beauty.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_send_message.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_send_message.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_greens_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\greens_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkmic_on.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\linkmic_on.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_item_selected.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\music_item_selected.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_click.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\user_click.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_close.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_close.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart8.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart8.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_floating_default.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\view_floating_default.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_recording_background_horizontal.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_horizontal.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_kick_out.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_kick_out.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_play_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\play_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_float_logo.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\float_logo.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_blur.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\blur.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_camera_off.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\camera_off.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_dark.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\bg_dark.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkmic_off.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\linkmic_off.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\color_xml_list_item_text_color.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\color\\xml_list_item_text_color.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart2.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart2.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_linkmic_off_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\linkmic_off_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_progress_bar.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\layout_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_text_accent_gray_color.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-hdpi\\text_accent_gray_color.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\home_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_filter.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\filter.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_switch_camera_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_switch_camera_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_face.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\face.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_pic_choose.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\dialog_pic_choose.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_beauty_area.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\fragment_beauty_area.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkmic_loading.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\linkmic_loading.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_linkmic_on_normal.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\linkmic_on_normal.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_recording_background_private_vertical.jpg.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\recording_background_private_vertical.jpg"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_send_message_base.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\btn_send_message_base.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_button1.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\layout\\tab_button1.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_pic.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\splash_pic.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_7.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_7.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_home.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_like_pressed.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_like_pressed.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_filter_press.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\filter_press.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_share_pressed.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\icon_share_pressed.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_beauty_seekbar_icon.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\beauty_seekbar_icon.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_loading_11.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\loading_11.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_log_on.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_log_on.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_beauty_drawable.xml.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable\\icon_beauty_drawable.xml"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_front.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\progress_front.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart3.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\heart3.png"
+    },
+    {
+        "merged": "E:\\TXLive\\XiaoZhiBo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_return.png.flat",
+        "source": "E:\\TXLive\\XiaoZhiBo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_return.png"
+    }
+]
